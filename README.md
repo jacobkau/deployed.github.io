@@ -1,12 +1,12 @@
 https://mutindaa254.github.io/Web-Dev-Gr-Assignment/
 
-# 🌐 Web Development Group Challenge
+# Web Development Group Challenge
 
 > A collaborative project built as part of the PLP Curriculum in Web Development.
 
 ---
 
-## 📋 Project Overview
+## Project Overview
 
 This project is a **web-based application** developed during our group challenge using only the technologies covered in class.  
 It demonstrates our **teamwork**, **creativity**, and **understanding of web development principles**, focusing on:
@@ -18,7 +18,7 @@ It demonstrates our **teamwork**, **creativity**, and **understanding of web dev
 
 ---
 
-## 🛠️ Solution Approach
+## Solution Approach
 
 We followed a structured and collaborative process:
 
@@ -39,7 +39,7 @@ We followed a structured and collaborative process:
 
 ---
 
-## 🧰 Technologies Used
+## Technologies Used
 
 - HTML5
 - CSS3
@@ -48,7 +48,7 @@ We followed a structured and collaborative process:
 
 ---
 
-## 👥 Group Members
+## Group Members
 
 - **Violet Engefu** – Member
 - **Jacob Kau** – Moderator
@@ -58,17 +58,17 @@ We followed a structured and collaborative process:
 
 ---
 
-## ✨ Features Implemented
+## Features Implemented
 
-- ✔️ Bootstrap styling
-- ✔️ Clear idea implementation
-- ✔️ Responsive layout
-- ✔️ Accessible design
-- ✔️ Clear navigation and intuitive UI
+- Bootstrap styling
+- Clear idea implementation
+- Responsive layout
+- Accessible design
+- Clear navigation and intuitive UI
 
 ---
 
-## 📁 Folder Structure
+## Folder Structure
 
 WEB-DEV-GR-ASSIGNMENT
 |__CSS-style.css
@@ -76,3 +76,6 @@ WEB-DEV-GR-ASSIGNMENT
 |__images - contains all the images that were used in the development of the webpage
 |__index.html - the webpage created
 |__Readme.md file - this is the informational file
+
+## Live preview
+- [https://jacobkau.github.io/deployed.github.io/](https://jacobkau.github.io/deployed.github.io/)
